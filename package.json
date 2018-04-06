@@ -1,0 +1,22 @@
+{
+  "name": "brainjs-practice",
+  "version": "1.0.0",
+  "description": "neural network practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjharkins/brainjs-practice.git"
+  },
+  "author": "cory harkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjharkins/brainjs-practice/issues"
+  },
+  "homepage": "https://github.com/cjharkins/brainjs-practice#readme",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
+}
